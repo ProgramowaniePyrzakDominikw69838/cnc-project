@@ -5,3 +5,5 @@ Zmiana tylko w branchu – integracja z Jira
 Zmiany do zadania SCRUM-24
 Zmiana wykonana bezpośrednio w main
  main
+Test integracji z Jira SCRUM-30
+SCRUM-30 pierwszy commit do Jira
